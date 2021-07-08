@@ -24,11 +24,11 @@
 
 ### GEBP型矩阵乘
 
-![image-20210706101309860](/Users/caowanlu/Library/Application Support/typora-user-images/image-20210706101309860.png)
+![Alt text](/pics/1.png?raw=true)
 
 ### GEPDOT型矩阵乘
 
-![image-20210706101427144](/Users/caowanlu/Library/Application Support/typora-user-images/image-20210706101427144.png)
+![Alt text](/pics/2.png?raw=true)
 
 ### 分块接口介绍
 
@@ -36,9 +36,9 @@
 
 运行效果如下：
 
-![image-20210706102052940](/Users/caowanlu/Library/Application Support/typora-user-images/image-20210706102052940.png)
+![Alt text](/pics/3.png?raw=true)
 
-![image-20210706102151973](/Users/caowanlu/Library/Application Support/typora-user-images/image-20210706102151973.png)
+![Alt text](/pics/4.png?raw=true)
 
 ## 4.环境准备与运行
 
